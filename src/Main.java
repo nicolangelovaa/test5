@@ -4,6 +4,6 @@ public class Main {
 
         System.out.println("Hello Git!");
 
-        System.out.println("Now I can continue make changes to my project :)");
+        System.out.println("Now I can continue make changes to my project new project :)");
     }
 }
